@@ -16,6 +16,7 @@ const (
     // identifier + literal
     IDENT   = "IDENT" // add, foobar, ...
     INT     = "INT" // 1, 2, 3, ...
+    STRING  = "STRING"
 
     // operand
     ASSIGN      = "="

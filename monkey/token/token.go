@@ -35,8 +35,8 @@ const (
     RPAREN      = ")"
     LBRACE      = "{"
     RBRACE      = "}"
-    LSQUAR      = "[" // added
-    RSQUAR      = "]" // added
+    LBRACKET    = "[" // added
+    RBRACKET    = "]" // added
 
     // keywords
     FUNCTION    = "FUNCTION"
